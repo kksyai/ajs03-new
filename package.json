@@ -1,0 +1,23 @@
+{
+  "name": "ajs03-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kksyai/ajs03-new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kksyai/ajs03-new/issues"
+  },
+  "homepage": "https://github.com/kksyai/ajs03-new#readme",
+  "dependencies": {
+    "@kksyai/ajs03": "^1.0.0"
+  }
+}
